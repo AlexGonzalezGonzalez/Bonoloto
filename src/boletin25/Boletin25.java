@@ -183,27 +183,21 @@ public int[] random() {
         
 
             if (randoms[i] == Integer.parseInt(split[1])) {
-                aciertos=true;
                 conta++;
             }
             if (randoms[i] == Integer.parseInt(split[2])) {
-                aciertos=true;
                 conta++;
             }
             if (randoms[i] == Integer.parseInt(split[3])) {
-                aciertos=true;
                 conta++;
             }
             if (randoms[i] == Integer.parseInt(split[4])) {
-                aciertos=true;
                 conta++;
             }
             if (randoms[i] == Integer.parseInt(split[5])) {
-                aciertos=true;
                 conta++;
             }
             if (randoms[i] == Integer.parseInt(split[6])) {
-                aciertos=true;
                 conta++;
             }
             }
